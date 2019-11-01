@@ -28,6 +28,8 @@
 
 ## DELTA LAKE IN SPARK
 	https://docs.databricks.com/delta/delta-intro.html
+## If you need to monitor Kafka Clusters and Spark Jobs for 24x7 production environment, there are a few good tools/frameworks available, like Cruise Control for Kafka and Dr. Elephant and SparkLint for Spark jobs.
+
 
 ## DEV Utils 
 	
