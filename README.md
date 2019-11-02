@@ -30,6 +30,10 @@
 	https://docs.databricks.com/delta/delta-intro.html
 ## If you need to monitor Kafka Clusters and Spark Jobs for 24x7 production environment, there are a few good tools/frameworks available, like Cruise Control for Kafka and Dr. Elephant and SparkLint for Spark jobs.
 
+## Weekend Work Confulent Kafka In Ubunut Server.
+	https://dzone.com/articles/how-to-use-apache-kafka-to-transform-a-batch-pipel
+	https://github.com/simplesteph/medium-blog-kafka-udemy
+	https://www.youtube.com/watch?v=h5i94umfzMM&feature=youtu.be
 
 ## DEV Utils 
 	
