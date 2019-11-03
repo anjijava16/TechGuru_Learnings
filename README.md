@@ -35,7 +35,7 @@
 	https://github.com/simplesteph/medium-blog-kafka-udemy
 	https://www.youtube.com/watch?v=h5i94umfzMM&feature=youtu.be
 	
-## Spark Streaming
+## Spark Structured Streaming
    https://github.com/jaysara/structured-data-strreaming
 	
 
