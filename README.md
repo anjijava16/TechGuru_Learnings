@@ -34,6 +34,10 @@
 	https://dzone.com/articles/how-to-use-apache-kafka-to-transform-a-batch-pipel
 	https://github.com/simplesteph/medium-blog-kafka-udemy
 	https://www.youtube.com/watch?v=h5i94umfzMM&feature=youtu.be
+	
+## Spark Streaming
+   https://github.com/jaysara/structured-data-strreaming
+	
 
 ## DEV Utils 
 	
